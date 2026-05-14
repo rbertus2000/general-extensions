@@ -1,5 +1,5 @@
 {
-  "buildTime": "2026-05-13T19:41:38.051Z",
+  "buildTime": "2026-05-14T22:59:41.048Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.87",
     "types": "1.0.0-alpha.87"
@@ -277,7 +277,7 @@
     {
       "name": "Webtoon",
       "description": "Extension that pulls content from webtoons.com.",
-      "version": "1.0.0-alpha.15",
+      "version": "1.0.0-alpha.16",
       "icon": "icon.png",
       "languages": "multi",
       "contentRating": "SAFE",
